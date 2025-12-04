@@ -219,8 +219,6 @@ Save as assets/feature_importance.png and include:
 ![Feature importance](assets/feature_importance.png)
  Limitations & Future Work  
 
-Bunu README’nin sonlarına doğru (Author’dan hemen önce) ekleyebilirsin:
-
 ```md
 6 Limitations & Future Work
 
@@ -237,3 +235,4 @@ Although this project provides useful insights, it also has several limitations:
 - incorporating additional features such as company size, sector, or remote/on-site format,
 - experimenting with more advanced models (e.g. tree-based methods) for comparison,
 - developing an interactive dashboard for universities to monitor internship quality indicators in real time.
+
